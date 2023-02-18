@@ -1,0 +1,17 @@
+.blk-btn,
+.yllw-btn {
+    font-size: 28px;
+    font-family: helvetica, 'Times New Roman', sans-serif;
+    border-color: lightgrey;
+}
+
+.blk-btn {
+    background-color: black;
+    color: white;
+    
+}
+
+.yllw-btn {
+    background-color: yellow;
+    color: black;
+}
